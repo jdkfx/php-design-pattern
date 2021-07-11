@@ -1,0 +1,15 @@
+{
+    "name": "jdkfx/php-design-pattern",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
+    "authors": [
+        {
+            "name": "jdkfx",
+            "email": "amateurranch@gmail.com"
+        }
+    ],
+    "require": {}
+}
